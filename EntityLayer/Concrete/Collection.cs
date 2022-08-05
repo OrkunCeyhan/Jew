@@ -13,6 +13,7 @@ namespace EntityLayer.Concrete
         public int collectionID { get; set; }
         public string collectionName { get; set; }
 
+        //Product tablosu ile ilişkilendirildi
         public ICollection<Product> products { get; set; }
     }
 }

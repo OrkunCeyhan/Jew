@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface IDiscountDal:IGenericDal<Discount>
+    public interface IDiscount:IEntityRepository<Discount>
     {
     }
 }

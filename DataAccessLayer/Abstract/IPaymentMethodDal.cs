@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface IPaymentMethodDal:IGenericDal<PaymentMethod>
+    public interface IPaymentMethodDal:IEntityRepository<PaymentMethod>
     {
     }
 }

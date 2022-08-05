@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface IBankCardDal:IGenericDal<BankCard>
+    public interface IBankCardDal:IEntityRepository<BankCard>
     {
+       
     }
 }

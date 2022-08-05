@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface ICustomerDal:IEntityRepository<Customer>
+    public interface ICategoryDal:IEntityRepository<Category>
     {
     }
 }

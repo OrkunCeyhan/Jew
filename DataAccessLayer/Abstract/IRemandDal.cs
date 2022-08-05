@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface IRemandDal:IGenericDal<Remand>
+    public interface IRemandDal:IEntityRepository<Remand>
     {
+        //soyutladık
     }
 }

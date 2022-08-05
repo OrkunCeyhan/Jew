@@ -16,6 +16,7 @@ namespace EntityLayer.Concrete
         public bool adminStatu { get; set; }
 
         public int customerID { get; set; }
+
         public virtual Customer customer { get; set; }
 
     }

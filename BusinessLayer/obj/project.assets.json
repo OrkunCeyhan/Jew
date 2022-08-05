@@ -1811,11 +1811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Orkun\\Downloads\\JewelleryECommerce\\JewelleryECommerce\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Orkun\\Documents\\GitHub\\Jew\\BusinessLayer\\BusinessLayer.csproj",
       "projectName": "BusinessLayer",
-      "projectPath": "C:\\Users\\Orkun\\Downloads\\JewelleryECommerce\\JewelleryECommerce\\BusinessLayer\\BusinessLayer.csproj",
+      "projectPath": "C:\\Users\\Orkun\\Documents\\GitHub\\Jew\\BusinessLayer\\BusinessLayer.csproj",
       "packagesPath": "C:\\Users\\Orkun\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Orkun\\Downloads\\JewelleryECommerce\\JewelleryECommerce\\BusinessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Orkun\\Documents\\GitHub\\Jew\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Orkun\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1832,11 +1832,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Orkun\\Downloads\\JewelleryECommerce\\JewelleryECommerce\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Orkun\\Downloads\\JewelleryECommerce\\JewelleryECommerce\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\Orkun\\Documents\\GitHub\\Jew\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Orkun\\Documents\\GitHub\\Jew\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\Orkun\\Downloads\\JewelleryECommerce\\JewelleryECommerce\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\Orkun\\Downloads\\JewelleryECommerce\\JewelleryECommerce\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Orkun\\Documents\\GitHub\\Jew\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Orkun\\Documents\\GitHub\\Jew\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

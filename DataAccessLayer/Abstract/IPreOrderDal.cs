@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Abstract
 {
-    public interface IPreOrderDal:IGenericDal<PreOrder>
+    public interface IPreOrderDal:IEntityRepository<PreOrder>
     {
     }
 }
